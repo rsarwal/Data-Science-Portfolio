@@ -22,7 +22,7 @@ I am a passionate data professional with a keen interest in transforming complex
 ## Projects
 
 ### 🔍 SQL Analysis
-
+[Chinook Churn Analysis](https://github.com/rsarwal/Data-Science-Portfolio/commit/ec4ddbdfd1f4058977d79b9707fd36c5f0389d01)
 - Performed complex queries on a digital media store database
 - Analyzed customer spending patterns
 - Extracted insights using SQL joins, aggregations, and window functions
