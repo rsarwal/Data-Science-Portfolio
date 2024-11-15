@@ -6,8 +6,6 @@ I am a passionate data professional with a keen interest in transforming complex
 ## Skills
 ### Technical Skills
 - **Programming Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, SciPy
-- **Machine Learning**: Scikit-learn, 
 - **Data Visualization**: Matplotlib, Seaborn, Tableau, Power BI
 - **Databases**: MySQL, PostgreSQL, SQLite
 - **Tools**: Jupyter Notebook, Google Colab, Excel, Google Sheets
