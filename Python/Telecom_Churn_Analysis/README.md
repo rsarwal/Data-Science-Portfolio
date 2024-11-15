@@ -77,8 +77,8 @@ Recommendations:
 2. Install required packages: `pip install -r requirements.txt`
 3. Open and run the Jupyter Notebook: `Telecom_Churn_Analysis.ipynb`
 
-## Author
-Raveena Sarwal
+## Contact Me
+Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
 
 ## License
 This project is open-source and available under the MIT License.
