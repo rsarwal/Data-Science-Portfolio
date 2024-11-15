@@ -45,14 +45,14 @@ The dataset contains customer information including demographics, services used,
 - ROC Curve: Demonstrates the model's ability to distinguish between churners and non-churners
 
 ## Conclusions and Recommendations
-Conclusions:
+- Conclusions:
 1. Month-to-month contracts are a significant risk factor for churn.
 2. Customers with shorter tenure are more likely to churn.
 3. Higher total charges correlate with increased churn risk.
 4. Fiber optic internet service users have higher churn rates.
 5. Customers using electronic checks as a payment method are more prone to churning.
 
-Recommendations:
+- Recommendations:
 1. Offer incentives for longer-term contracts to reduce month-to-month churn.
 2. Implement a robust onboarding program for new customers to increase early engagement and tenure.
 3. Review pricing strategies, especially for high-value customers, to ensure competitive rates.
