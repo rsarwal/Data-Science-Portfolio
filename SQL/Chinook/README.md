@@ -6,13 +6,6 @@ This project demonstrates SQL querying skills using the Chinook database, which 
 ## Table of Contents
 - [Data Source](#data-source)
 - [Queries and Analysis](#queries-and-analysis)
-- [Key Findings](#key-findings)
-- [Tools Used](#tools-used)
-- [How to Run](#how-to-run)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Data Source
 The Chinook database is a sample database available for SQL practice. It can be found at [Chinook Database GitHub Repository](https://github.com/lerocha/chinook-database).
