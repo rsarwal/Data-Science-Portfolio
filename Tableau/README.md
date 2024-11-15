@@ -3,8 +3,8 @@
 This section showcases my data visualization skills using Tableau Public. Below are some of my key projects:
 
 ## Project 1: Sales Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
-[View on Tableau Public](your_tableau_public_link_here)
+![Sales Dashboard](images/Sales Analysis.png)
+[View on Tableau Public]([your_tableau_public_link_here](https://public.tableau.com/app/profile/raveena.sarwal/viz/SalesDashboard_17311902648920/SalesAnalysis))
 
 Description of your project...
 
