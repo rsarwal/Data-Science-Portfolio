@@ -1,12 +1,31 @@
 # SQL Chinook Database Analysis
 
 ## Overview
-This project analyzes the Chinook database using SQL queries. The Chinook database represents a digital media store, including tables for artists, albums, media tracks, invoices, and customers.
+This project demonstrates SQL querying skills using the Chinook database, which represents a digital media store. It includes a series of analytical queries exploring various aspects of the business, from customer demographics to sales patterns and artist performance.
+
+## Table of Contents
+- [Data Source](#data-source)
+- [Queries and Analysis](#queries-and-analysis)
+- [Key Findings](#key-findings)
+- [Tools Used](#tools-used)
+- [How to Run](#how-to-run)
+- [Future Work](#future-work)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Data Source
 The Chinook database is a sample database available for SQL practice. It can be found at [Chinook Database GitHub Repository](https://github.com/lerocha/chinook-database).
 
 ## Queries and Analysis
+
+### 1. US Customers
+Retrieves all customers from the USA.
+
+```sql
+SELECT FirstName, LastName, Country
+FROM Customer
+WHERE Country = 'USA';
 
 ### 1. US Customers
 This query retrieves all customers from the USA.
