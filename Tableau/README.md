@@ -2,7 +2,7 @@
 
 This section showcases my data visualization skills using Tableau Public. Below are some of my key projects:
 
-### Sales Dashboard
+## Sales Dashboard
 ![Sales Dashboard](https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/Sales%20Analysis.png)
 
 ## Sales Analysis Dashboard
@@ -40,7 +40,7 @@ This dashboard enables stakeholders to quickly identify trends, compare performa
 
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SalesDashboard_17311902648920/SalesAnalysis)
 
-### Customer Analysis
+## Customer Analysis
 ![Customer Analysis](images/customer_analysis.png)
 [View on Tableau Public](your_tableau_public_link_here)
 
