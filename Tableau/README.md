@@ -136,11 +136,12 @@ This interactive dashboard provides comprehensive insights into website performa
 - Multi-metric comparison charts
 - Responsive design elements
 - Geographic data visualization
+  
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SEOAnalytics_17314453607240/Dashboard1)
 
 
 ## Data Analyst Salary Overview
-![Data Analyst Salary Overview] (https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/Data%20Analyst%20Job%20Overview.png)
+![Data Analyst Salary Overview](https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/Data%20Analyst%20Job%20Overview.png)
 ## Data Analyst Salary Overview Dashboard
 An interactive visualization analyzing data analyst salaries across different dimensions and locations.
 
@@ -173,5 +174,6 @@ An interactive visualization analyzing data analyst salaries across different di
 
 
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/DataAnalystSalaryOverview/DataAnalystJobOverview)
+
 
 For more of my Tableau work, please visit my [Tableau Public Profile](https://public.tableau.com/app/profile/raveena.sarwal/vizzes).
