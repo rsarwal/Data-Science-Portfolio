@@ -15,6 +15,7 @@ The Chinook database is a sample database available for SQL practice. It can be 
 SELECT FirstName, LastName, Country
 FROM Customer
 WHERE Country = 'USA';
+```
 
 ### 2. Customer Invoices
 This query joins the Customer and Invoice tables to show each customer's invoice totals.
@@ -23,3 +24,4 @@ This query joins the Customer and Invoice tables to show each customer's invoice
 SELECT c.FirstName, c.LastName, i.Total
 FROM Customer c
 INNER JOIN Invoice i ON c.CustomerId = i.CustomerId;
+```
