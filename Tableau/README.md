@@ -240,10 +240,8 @@ This dashboard enables stakeholders to:
 4. Geographic variations in performance highlighted
 5. Seasonal patterns in sales and profit visible in monthly trends
 
-[View Interactive Dashboard](your_tableau_public_link)
-
-
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/KPI_17310408759870/Dashboard1)
+
 
 
 
