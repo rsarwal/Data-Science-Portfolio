@@ -28,7 +28,7 @@ I am a passionate data professional with a keen interest in transforming complex
 - Extracted insights using SQL joins, aggregations, and window functions
 
 ### 📊 Python Data Analysis
-
+[Telecom Churn Analysis](https://github.com/rsarwal/Data-Science-Portfolio/commit/af01b63dce337774054c98690ff91e62ca401087)
 - Built a machine learning model to predict customer churn
 - Performed exploratory data analysis
 - Implemented logistic regression and evaluated model performance
