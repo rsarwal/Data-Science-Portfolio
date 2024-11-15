@@ -40,8 +40,8 @@ This dashboard enables stakeholders to quickly identify trends, compare performa
 
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SalesDashboard_17311902648920/SalesAnalysis)
 
-## Customer Analysis
-![Customer Analysis](images/customer_analysis.png)
+## HR Analysis
+![HR Analysis]()
 [View on Tableau Public](your_tableau_public_link_here)
 
 Description of your project...
