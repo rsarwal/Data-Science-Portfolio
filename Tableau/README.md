@@ -41,10 +41,67 @@ This dashboard enables stakeholders to quickly identify trends, compare performa
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SalesDashboard_17311902648920/SalesAnalysis)
 
 ## HR Analysis
-![HR Analysis]()
-[View on Tableau Public](your_tableau_public_link_here)
+![HR Analysis](https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/HR%20ANALYSIS.png)
 
-Description of your project...
+## HR Analytics Dashboard
+
+This comprehensive HR analytics dashboard provides crucial insights into workforce metrics and employee attrition patterns. The visualization effectively combines multiple HR KPIs and metrics to enable data-driven decision-making in human resource management.
+
+### Key Metrics Highlighted:
+- Total Employees: 1,470
+- Attrition Count: 237
+- Overall Attrition Rate: 16.12%
+- Active Employees: 1,233
+- Average Employee Age: 37 years
+
+### Dashboard Components:
+
+1. Department-wise Attrition Analysis
+   - Sales department shows highest attrition at 56.12%
+   - R&D follows at 38.82%
+   - HR department shows lowest attrition at 5.06%
+
+2. Age Demographics
+   - Detailed breakdown of employee count by age groups
+   - Peak employee concentration in the 33-39 age range
+   - Clear visualization of workforce age distribution
+
+3. Gender-based Insights
+   - Gender-specific attrition patterns
+   - Age group analysis by gender
+   - Higher male attrition (150) compared to female attrition (87)
+
+4. Education Level Distribution
+   - Bachelor's Degree holders: 99 employees
+   - Master's Degree holders: 58 employees
+   - Associates Degree holders: 44 employees
+   - High School graduates: 31 employees
+   - Doctoral Degree holders represented
+
+5. Job Satisfaction Analysis
+   - Detailed satisfaction ratings across different roles
+   - 4-point scale measurement
+   - Role-specific satisfaction trends
+   - Notable high satisfaction in Research and Sales roles
+
+### Technical Features:
+- Interactive filters and selections
+- Multi-dimensional data representation
+- Color-coded metrics for easy interpretation
+- Synchronized visualizations
+- Clear KPI cards with key metrics
+
+### Business Impact:
+This dashboard enables HR managers and business leaders to:
+- Monitor and analyze attrition trends
+- Identify departments requiring retention focus
+- Understand satisfaction levels across roles
+- Make informed decisions about workforce management
+- Track educational qualification distribution
+- Analyze age and gender diversity metrics
+
+[View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/HR_17311084154280/HRANALYSIS)
+
 
 
 
