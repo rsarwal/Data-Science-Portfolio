@@ -103,6 +103,43 @@ This dashboard enables HR managers and business leaders to:
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/HR_17311084154280/HRANALYSIS)
 
 
+## SEO Analytics
+![SEO Analytics](https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/SEO%20Analytics.png)
+
+## 1. SEO Analytics Dashboard
+This interactive dashboard provides comprehensive insights into website performance and user behavior metrics.
+
+### Key Metrics & Features:
+- Total Views: 624,704
+- Total Sessions: 418,062
+- Total Bounces: 90,216
+- Device-specific analysis across Desktop, Mobile, and Tablet platforms
+
+### Dashboard Components:
+1. Top 5 Pages Performance
+   - Detailed page-wise metrics visualization
+   - Bounce rate analysis by page
+
+2. Multi-Device Usage Analysis
+   - Desktop: 292,287 sessions
+   - Mobile: 113,691 sessions
+   - Tablet: 12,084 sessions
+
+3. Performance Metrics
+   - Average Page Load Time tracking
+   - Sessions trend analysis
+   - Geographic distribution of page views
+   - Country-wise user engagement metrics
+
+### Technical Features:
+- Interactive time-series visualizations
+- Multi-metric comparison charts
+- Responsive design elements
+- Geographic data visualization
+[View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SEOAnalytics_17314453607240/Dashboard1)
+
+
+
 
 
 For more of my Tableau work, please visit my [Tableau Public Profile](https://public.tableau.com/app/profile/raveena.sarwal/vizzes).
