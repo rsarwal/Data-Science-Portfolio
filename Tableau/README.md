@@ -175,5 +175,14 @@ An interactive visualization analyzing data analyst salaries across different di
 
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/DataAnalystSalaryOverview/DataAnalystJobOverview)
 
+## KPI Performance
+![KPI Performance](https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/KPI%20Performance.png)
+
+
+
+
+[View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/KPI_17310408759870/Dashboard1)
+
+
 
 For more of my Tableau work, please visit my [Tableau Public Profile](https://public.tableau.com/app/profile/raveena.sarwal/vizzes).
