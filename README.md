@@ -32,7 +32,7 @@ I am a passionate data professional with a keen interest in transforming complex
 - Implemented logistic regression and evaluated model performance
 
 ### 📈 Tableau Visualization
-
+[Tableau Visualizations](https://github.com/rsarwal/Data-Science-Portfolio/tree/main/Tableau)
 - Created interactive dashboards
 - Visualized key performance indicators
 - Developed data-driven storytelling techniques
