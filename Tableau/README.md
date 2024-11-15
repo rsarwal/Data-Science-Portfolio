@@ -106,7 +106,7 @@ This dashboard enables HR managers and business leaders to:
 ## SEO Analytics
 ![SEO Analytics](https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/SEO%20Analytics.png)
 
-## 1. SEO Analytics Dashboard
+## SEO Analytics Dashboard
 This interactive dashboard provides comprehensive insights into website performance and user behavior metrics.
 
 ### Key Metrics & Features:
@@ -139,7 +139,39 @@ This interactive dashboard provides comprehensive insights into website performa
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SEOAnalytics_17314453607240/Dashboard1)
 
 
+## Data Analyst Salary Overview
+![Data Analyst Salary Overview] (https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/Data%20Analyst%20Job%20Overview.png)
+## Data Analyst Salary Overview Dashboard
+An interactive visualization analyzing data analyst salaries across different dimensions and locations.
+
+### Key Insights:
+- Company Size Distribution:
+  - Large Companies: 32.62%
+  - Medium Companies: 53.71%
+  - Small Companies: 13.67%
+
+### Experience Level Breakdown:
+- Senior Level: 46.13%
+- Intermediate: 35.09%
+- Entry Level: 14.50%
+
+### Dashboard Components:
+1. Salary Analysis by Job Title
+   - Comprehensive breakdown across different roles
+   - Salary ranges from entry-level to senior positions
+   - Detailed comparison across various data-related positions
+
+2. Geographic Salary Distribution
+   - Global salary comparison across countries
+   - Interactive map visualization
+   - Country-specific salary trends
+
+3. Employment Type Analysis
+   - Contract vs Full-time vs Part-time comparison
+   - Experience level correlation with employment type
+   - Salary variations by employment type
 
 
+[View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/DataAnalystSalaryOverview/DataAnalystJobOverview)
 
 For more of my Tableau work, please visit my [Tableau Public Profile](https://public.tableau.com/app/profile/raveena.sarwal/vizzes).
