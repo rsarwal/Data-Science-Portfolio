@@ -4,7 +4,7 @@ This section showcases my data visualization skills using Tableau Public. Below 
 
 ## Project 1: Sales Dashboard
 ![Sales Dashboard](images/Sales Analysis.png)
-[View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SalesDashboard_17311902648920/SalesAnalysis))
+[View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/SalesDashboard_17311902648920/SalesAnalysis)
 
 Description of your project...
 
