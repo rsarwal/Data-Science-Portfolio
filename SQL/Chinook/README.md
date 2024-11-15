@@ -143,4 +143,3 @@ GitHub for version control and project presentation
 
 ### Contact
 Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
-Project Link: https://github.com/yourusername/sql-chinook-analysis
