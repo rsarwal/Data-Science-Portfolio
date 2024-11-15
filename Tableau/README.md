@@ -178,7 +178,69 @@ An interactive visualization analyzing data analyst salaries across different di
 ## KPI Performance
 ![KPI Performance](https://github.com/rsarwal/Data-Science-Portfolio/blob/main/Tableau/images/KPI%20Performance.png)
 
+## KPI Performance Dashboard
 
+This interactive sales performance dashboard provides a comprehensive view of key business metrics, showcasing year-over-year growth and product-level insights.
+
+### Key Metrics:
+- Sales: $2,297,354
+- Profit: $286,347
+- Discount Rate: 16%
+
+### Dashboard Components:
+
+1. Sales & Profit Trends
+   - Year-over-year performance visualization (2019-2022)
+   - Clear upward trend showing business growth
+   - Bar chart representation for easy comparison
+
+2. Monthly KPI Analysis
+   - Detailed monthly tracking of three key metrics:
+     * Sales performance (line graph showing monthly fluctuations)
+     * Profit margins (bar chart with positive/negative indicators)
+     * Discount rates (trend line showing pricing strategy)
+   - Time series analysis from 2019 to 2023
+   - Synchronized visualization for comparative analysis
+
+3. Geographic Performance
+   - State-wise profit distribution map
+   - Color-coded regions indicating performance levels
+   - Interactive tooltips for detailed state metrics
+
+4. Product Performance Analysis
+   - Product category breakdown showing:
+     * Chairs leading in sales
+     * Storage and Binders as strong performers
+     * Tables and Machines showing significant contribution
+   - Horizontal bar chart for easy comparison
+   - Clear visualization of product hierarchy
+
+### Technical Features:
+- Interactive filters for year selection
+- Synchronized multi-chart dashboard
+- Custom color coding for performance indicators
+- Dynamic tooltips for detailed information
+- Responsive design elements
+
+### Business Impact:
+This dashboard enables stakeholders to:
+- Track overall business performance
+- Identify trends across multiple time periods
+- Analyze product category performance
+- Make data-driven decisions for:
+  * Inventory management
+  * Pricing strategy
+  * Geographic expansion
+  * Product focus
+
+### Key Insights:
+1. Strong year-over-year growth in sales from 2019 to 2022
+2. Consistent profit margins despite varying discount rates
+3. Clear product category leaders identified
+4. Geographic variations in performance highlighted
+5. Seasonal patterns in sales and profit visible in monthly trends
+
+[View Interactive Dashboard](your_tableau_public_link)
 
 
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/KPI_17310408759870/Dashboard1)
