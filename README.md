@@ -22,7 +22,7 @@ I am a passionate data professional with a keen interest in transforming complex
 ## Projects
 
 ### 🔍 SQL Analysis
-[SQL Chinook Database Analysis](SQL/README.md)
+
 - Performed complex queries on a digital media store database
 - Analyzed customer spending patterns
 - Extracted insights using SQL joins, aggregations, and window functions
