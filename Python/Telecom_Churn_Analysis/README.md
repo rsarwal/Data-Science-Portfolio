@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes customer churn in a telecom company using machine learning techniques. The goal is to predict which customers are likely to churn and identify the key factors influencing customer retention.
 
+## Files in this Project
+- `Telecom_Churn_Analysis.ipynb`: Jupyter notebook containing the main analysis
+- `requirements.txt`: List of Python packages required for this project
+  
 ## Dataset
 The dataset contains customer information including demographics, services used, account information, and churn status. It consists of 5634 samples and 7072 features.
 
@@ -52,8 +56,9 @@ The dataset contains customer information including demographics, services used,
 2. Install required packages: `pip install -r requirements.txt`
 3. Open and run the Jupyter Notebook: `Telecom_Churn_Analysis.ipynb`
 
+
 ## Author
-[Your Name]
+Raveena Sarwal
 
 ## License
 This project is open-source and available under the MIT License.
