@@ -8,7 +8,8 @@ The Chinook database is a sample database available for SQL practice. It can be 
 
 ## Queries and Analysis
 
-### 1. US Customers- This query retrieves all customers from the USA.
+### 1. US Customers
+This query retrieves all customers from the USA.
 
 ```sql
 SELECT FirstName, LastName, Country
