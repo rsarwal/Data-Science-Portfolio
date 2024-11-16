@@ -39,19 +39,30 @@ This Airtable project demonstrates a comprehensive content calendar management s
 
 ## Views
 
-[Describe the views for each table as mentioned above]
+## Content Ideas Table:
+- Grid view: All Ideas
+- Kanban view: Idea Status Board
+## Content Pieces Table:
+- Grid view: All Content
+- Calendar view: Content Schedule
+- Gallery view: Content Preview
+## Editorial Calendar Table:
+- Grid view: All Scheduled Content
+- Calendar view: Publishing Calendar
 
 ## Automations
 
 1. **New Content Piece Notification**
-   [Describe the automation as mentioned above]
+   - Trigger: When a new record is created in Content Pieces table
+   - Action: Send a Slack message (or email) to the team notifying them of the new content piece
 
 2. **Content Publishing Reminder**
-   [Describe the automation as mentioned above]
+   - Trigger: 1 day before the Publish Date in Content Pieces table
+   - Action: Send an email reminder to the Author about the upcoming publication
 
 3. **Update Editorial Calendar**
-   [Describe the automation as mentioned above]
-
+   - Trigger: When a record in Content Pieces table is updated and Status changes to "Scheduled"
+   - Action: Create a new record in the Editorial Calendar table with the corresponding details
 ## Screenshots
 
 [Include screenshots of each table, key views, and automation setups]
