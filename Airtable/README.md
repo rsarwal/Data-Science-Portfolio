@@ -65,7 +65,7 @@ Project Management System
 ## How to Use This Base
 
 1. You can view the Projects Table directly in Airtable using this link:
-[Projects Table View] (https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
+[Projects Table View](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
 2. You can view the Tasks Table directly in Airtable using this link:
 [Tasks Table View](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
 3. You can view the Automation directly in Airtable using this link:
