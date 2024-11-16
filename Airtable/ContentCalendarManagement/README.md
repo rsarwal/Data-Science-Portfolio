@@ -9,13 +9,13 @@ This Airtable project demonstrates a comprehensive content calendar management s
 ### Tables
 
 1. **Content Ideas Table**
-   [Describe fields as in the structure above]
+  View [Content Ideas](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 
 2. **Content Pieces Table**
-   [Describe fields as in the structure above]
+  View [Content Pieces](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 
 3. **Editorial Calendar Table**
-   [Describe fields as in the structure above]
+  View [Editorial Calendar](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 
 ## Views
 
