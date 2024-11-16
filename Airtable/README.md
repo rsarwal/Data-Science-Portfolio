@@ -48,16 +48,6 @@ Congratulations on completing the project!
 Best regards,
 Project Management System
 
-## Screenshots
-
-![Projects Table](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
-*Figure 1: Projects Table Overview*
-
-![Tasks Table](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
-*Figure 2: Tasks Table Overview*
-
-![Automation Setup](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
-*Figure 3: Automation Configuration*
 
 ## Benefits of This Setup
 
@@ -78,8 +68,10 @@ Project Management System
 [Projects Table View] (https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
 2. You can view the Tasks Table directly in Airtable using this link:
 [Tasks Table View](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
-3. Customize the fields and automations as needed for your specific project management needs.
-4. Start adding your projects and tasks to begin tracking your work efficiently.
+3. You can view the Automation directly in Airtable using this link:
+   [Automation Setup](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
+5. Customize the fields and automations as needed for your specific project management needs.
+6. Start adding your projects and tasks to begin tracking your work efficiently.
 
 ## Conclusion
 
