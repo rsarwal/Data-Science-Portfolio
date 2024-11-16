@@ -63,9 +63,7 @@ This Airtable project demonstrates a comprehensive content calendar management s
 3. **Update Editorial Calendar**
    - Trigger: When a record in Content Pieces table is updated and Status changes to "Scheduled"
    - Action: Create a new record in the Editorial Calendar table with the corresponding details
-## Screenshots
 
-[Include screenshots of each table, key views, and automation setups]
 
 ## Benefits of This Setup
 
