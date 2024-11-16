@@ -9,12 +9,32 @@ This Airtable project demonstrates a comprehensive content calendar management s
 ### Tables
 
 1. **Content Ideas Table**
+  Idea Name (Primary field, Single line text)
+  Description (Long text)
+  Status (Single select: Brainstorm, In Progress, Ready for Review, Approved, Rejected)
+  Target Audience (Multiple select)
+  Assigned To (Single line text)
+  Created Date (Date)
   View [Content Ideas](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 
-2. **Content Pieces Table**
+3. **Content Pieces Table**
+  Content Title (Primary field, Single line text)
+  Content Type (Single select: Blog Post, Social Media Post, Video, Podcast, Infographic)
+  Status (Single select: Draft, In Review, Scheduled, Published)
+  Publish Date (Date)
+  Author (Single line text)
+  Associated Idea (Linked to Content Ideas table)
+  Platform (Multiple select: Website, Facebook, Instagram, Twitter, LinkedIn, YouTube)
+  URL (URL)
+  Performance Metrics (Number)
   View [Content Pieces](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 
-3. **Editorial Calendar Table**
+5. **Editorial Calendar Table**
+  Date (Primary field, Date)
+  Content Piece (Linked to Content Pieces table)
+  Platform (Single select: Website, Facebook, Instagram, Twitter, LinkedIn, YouTube)
+  Time (Time)
+  Status (Single select: Scheduled, Posted, Rescheduled, Cancelled)
   View [Editorial Calendar](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 
 ## Views
