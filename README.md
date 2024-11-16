@@ -1,7 +1,7 @@
 # Data Science Portfolio - Raveena Sarwal
 
 ## About Me
-I am a passionate data professional with a keen interest in transforming complex data into meaningful insights. Self taught data analyst, I leverage various tools and techniques to solve real-world problems through data-driven approaches.
+I am a passionate data professional with a keen interest in transforming complex data into meaningful insights. I love to use various tools and techniques to solve real-world problems and infer data-backed results.
 
 ## Skills
 ### Technical Skills
