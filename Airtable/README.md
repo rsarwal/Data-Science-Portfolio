@@ -74,9 +74,12 @@ Project Management System
 
 ## How to Use This Base
 
-1. Clone the base using this [Airtable template link] (if available).
-2. Customize the fields and automations as needed for your specific project management needs.
-3. Start adding your projects and tasks to begin tracking your work efficiently.
+1. You can view the Projects Table directly in Airtable using this link:
+[Projects Table View] (https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
+2. You can view the Tasks Table directly in Airtable using this link:
+[Tasks Table View](https://airtable.com/appF51KHy4PEjRTY3/shrO96Ur4JezPGV1A)
+3. Customize the fields and automations as needed for your specific project management needs.
+4. Start adding your projects and tasks to begin tracking your work efficiently.
 
 ## Conclusion
 
