@@ -40,15 +40,15 @@ This Airtable project demonstrates a comprehensive content calendar management s
 ## Views
 
 ## Content Ideas Table:
-- Grid view: All Ideas (https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
-- Kanban view: Idea Status Board
+- Grid view: [All Ideas](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
+- Kanban view: [Idea Status Board](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 ## Content Pieces Table:
-- Grid view: All Content
-- Calendar view: Content Schedule
-- Gallery view: Content Preview
+- Grid view: [All Content](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
+- Calendar view: [Content Schedule](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
+- Gallery view: [Content Preview](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 ## Editorial Calendar Table:
-- Grid view: All Scheduled Content
-- Calendar view: Publishing Calendar
+- Grid view: [All Scheduled Content](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
+- Calendar view: [Publishing Calendar](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
 
 ## Automations
 
