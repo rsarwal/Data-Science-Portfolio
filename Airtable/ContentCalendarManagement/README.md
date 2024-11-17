@@ -56,11 +56,11 @@ This Airtable project demonstrates a comprehensive content calendar management s
    - Trigger: When a new record is created in Content Pieces table
    - Action: Send a Slack message to the team notifying them of the new content piece
 
-2. **Content Publishing Reminder**
+2. [**Content Publishing Reminder**](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
    - Trigger: 1 day before the Publish Date in Content Pieces table
    - Action: Send an email reminder to the Author about the upcoming publication
 
-3. **Update Editorial Calendar**
+3. [**Update Editorial Calendar**](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
    - Trigger: When a record in Content Pieces table is updated and Status changes to "Scheduled"
    - Action: Create a new record in the Editorial Calendar table with the corresponding details
 
