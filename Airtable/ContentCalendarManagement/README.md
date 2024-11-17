@@ -52,9 +52,9 @@ This Airtable project demonstrates a comprehensive content calendar management s
 
 ## Automations
 
-1. **New Content Piece Notification**
+1. [**New Content Piece Notification**](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ)
    - Trigger: When a new record is created in Content Pieces table
-   - Action: Send a Slack message (or email) to the team notifying them of the new content piece
+   - Action: Send a Slack message to the team notifying them of the new content piece
 
 2. **Content Publishing Reminder**
    - Trigger: 1 day before the Publish Date in Content Pieces table
