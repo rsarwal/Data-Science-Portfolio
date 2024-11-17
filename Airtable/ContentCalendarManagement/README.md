@@ -74,7 +74,7 @@ This Airtable project demonstrates a comprehensive content calendar management s
 
 ## How to Use This Base
 
-1. Clone the base using this [Airtable template link] (if available).
+1. Clone the base using this [Airtable template link](https://airtable.com/appLjaF4chA2GHgNe/shrALRs7ABCU5BVIJ).
 2. Start by adding your content ideas to the Content Ideas table.
 3. As ideas are approved, create corresponding entries in the Content Pieces table.
 4. Use the Editorial Calendar to schedule and track content publication across different platforms.
