@@ -48,6 +48,9 @@ Tracked sales performance across major regions:
 - Customer Segmentation Analysis
 - Geographical Sales Mapping
 
+## Contact Me
+Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
+
 ## Tools Used
 - Power BI Desktop
 - DAX for calculations
