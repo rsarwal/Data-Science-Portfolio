@@ -1,4 +1,5 @@
-# Sales Analysis
+
+## Sales Analysis Dashboard
 This interactive dashboard provides a comprehensive analysis of sales performance across multiple dimensions. The visualization showcases three key metrics for 2022:
 
 Sales: $518M (26.1% increase vs. Previous Year)
@@ -28,3 +29,5 @@ Interactive filters including year selection
 Color-coded performance indicators
 Responsive design elements
 This dashboard enables stakeholders to quickly identify trends, compare performance across categories, and make data-driven decisions for business optimization.
+
+View on Tableau Public
