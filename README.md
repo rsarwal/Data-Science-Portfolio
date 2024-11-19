@@ -51,7 +51,7 @@ I am a passionate data professional with a keen interest in transforming complex
 
 ### 🌐 Additional Projects
 - Google Sheets Budget Tracker
-- Airtable Project Management System
+- [Airtable Project Management System](https://github.com/rsarwal/Data-Science-Portfolio/tree/main/Airtable/EmailAutomation)
 - Notion Knowledge Management Database
 
 ## Certifications
