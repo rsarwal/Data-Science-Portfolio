@@ -2,6 +2,7 @@
 
 ## Project Overview
 A comprehensive sales analysis dashboard created in Power BI to visualize and analyze sales performance across different customer segments, geographical regions, and time periods.
+## [Dashboard](https://github.com/rsarwal/Data-Science-Portfolio/blob/f44dcd300858561013b1a5141539c2b524c930ad/PowerBI/Sales/Sales.pdf)
 ## Dashboard Components
 
 ### Sales by Customer Segment
