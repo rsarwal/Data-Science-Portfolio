@@ -243,6 +243,7 @@ This dashboard enables stakeholders to:
 [View on Tableau Public](https://public.tableau.com/app/profile/raveena.sarwal/viz/KPI_17310408759870/Dashboard1)
 
 
-
+## Contact Me
+Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
 
 For more of my Tableau work, please visit my [Tableau Public Profile](https://public.tableau.com/app/profile/raveena.sarwal/vizzes).
