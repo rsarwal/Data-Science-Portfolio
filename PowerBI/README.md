@@ -13,3 +13,5 @@ A collection of data visualization and business intelligence projects showcasing
 - Time series analysis
 - Geographic mapping
 
+## Contact Me
+Raveena Sarwal - https://www.linkedin.com/in/raveena-sarwal-data-governance-analysis-visualization/
