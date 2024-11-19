@@ -63,6 +63,3 @@ Potential improvements to this project could include:
 
 This README does not include any sensitive information such as API credentials. Always ensure that you keep your API keys and passwords secure and never commit them to public repositories.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31811341/679161bc-c11e-48f7-81cf-fbe52f6a279b/paste.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31811341/78606269-b092-427b-8821-21b2136b74f5/paste-2.txt
