@@ -1,0 +1,30 @@
+Sales Analysis Dashboard
+This interactive dashboard provides a comprehensive analysis of sales performance across multiple dimensions. The visualization showcases three key metrics for 2022:
+
+Sales: $518M (26.1% increase vs. Previous Year)
+Profit: $19M (10.56% growth vs. Previous Year)
+Quantity: 9,837 units (23.3% increase vs. Previous Year)
+Key Features:
+Time Series Analysis
+
+Monthly trends from January to December
+Year-over-year comparison with previous period
+Clear visualization of growth patterns using line charts
+Product Category Performance
+
+Detailed subcategory comparison showing relative performance
+Top performers including Chairs, Phones, and Storage solutions
+Visual breakdown of product hierarchy
+Weekly Performance Metrics
+
+Granular weekly trends for sales and profit
+Average weekly sales of $2,622,069
+Average weekly profit of $373,305
+Clear identification of peak periods and seasonal patterns
+Technical Highlights:
+Custom KPI cards with year-over-year comparisons
+Synchronized dual-axis charts for trend analysis
+Interactive filters including year selection
+Color-coded performance indicators
+Responsive design elements
+This dashboard enables stakeholders to quickly identify trends, compare performance across categories, and make data-driven decisions for business optimization.
