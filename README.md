@@ -38,7 +38,7 @@ I am a passionate data professional with a keen interest in transforming complex
 - Developed data-driven storytelling techniques
 
 ### 💡 Power BI Project
-
+[Sales Analysis](https://github.com/rsarwal/Data-Science-Portfolio/blob/f44dcd300858561013b1a5141539c2b524c930ad/PowerBI/Sales/Sales.pdf)
 - Developed comprehensive sales tracking dashboard
 - Implemented dynamic filtering
 - Created executive-level reporting visualizations
